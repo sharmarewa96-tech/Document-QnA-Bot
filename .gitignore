@@ -1,0 +1,19 @@
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# API keys and secrets
+.env
+.streamlit/secrets.toml
+
+# Temporary files
+*.log
+
+# VS Code settings
+.vscode/
